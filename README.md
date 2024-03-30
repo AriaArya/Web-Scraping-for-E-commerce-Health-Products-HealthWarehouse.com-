@@ -1,5 +1,5 @@
-Unlocking Business Insights: Web Scraping for E-commerce
-Health Products (HealthWarehouse.com)
+**Unlocking Business Insights: Web Scraping for E-commerce
+Health Products (HealthWarehouse.com)**
 
 The project aims to delve into 'How price information of medicines varies across OTC categories and
 impacts individuals with no insurance coverage'. The growing market of e-commerce companies in the
